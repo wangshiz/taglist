@@ -10,7 +10,7 @@
 <title>添加标签</title>
 </head>
 <body>
-	    <!-- 标签 --> 
+  <!-- 标签 --> 
   <input type="hidden" value="我是陈小春,你服不服"  id="addTags">   
   <div class="box" >
     <div class="text-box">
